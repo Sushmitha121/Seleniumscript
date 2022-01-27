@@ -42,6 +42,7 @@ public class ToHandleCalendarPopUp {
 					
 				}
 		}
+		driver.quit();
 		
 		
     
